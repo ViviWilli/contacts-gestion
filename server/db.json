@@ -1,0 +1,120 @@
+{
+  "contacts": [
+    {
+      "id": "VHG45YF",
+      "name": "Vivi",
+      "email": "Vivi@gmail.com",
+      "mobile": "068833334",
+      "ville": "Tanger",
+      "title": "Software",
+      "societe": "NTIC",
+      "groupId": "1"
+    },
+    {
+      "id": "KLJ78GH",
+      "name": "Cash",
+      "email": "Cash@gmail.com",
+      "mobile": "09647463573",
+      "ville": "Marrakech",
+      "title": "Businessman",
+      "societe": "LTON",
+      "groupId": "3"
+    },
+    {
+      "id": "CSDH2JD9",
+      "name": "Mami",
+      "email": "Mami@gmail.com",
+      "mobile": "063546976",
+      "ville": "Rabat",
+      "title": "Nurse",
+      "societe": "Ct",
+      "groupId": "2"
+    },
+    {
+      "id": "LMYJ3H8",
+      "name": "Tony",
+      "email": "Tony@gmail.com",
+      "mobile": "095643673",
+      "ville": "Satat",
+      "title": "Doctor",
+      "societe": "Hospi",
+      "groupId": "5"
+    },
+    {
+      "id": "DCMYJ3H8",
+      "name": "Bony",
+      "email": "bony@gmail.com",
+      "mobile": "34567890098",
+      "ville": "Satat",
+      "title": "Doctor",
+      "societe": "Hospi",
+      "groupId": "5"
+    },
+    {
+      "name": "Viola william",
+      "email": "Violawilliam@gmail.com",
+      "mobile": "2345678909",
+      "ville": "Meknès",
+      "title": "FG",
+      "societe": "Student",
+      "groupId": "6",
+      "id": "tJRclbz"
+    },
+    {
+      "name": "estelle nebo",
+      "email": "estellnebo@gmail.com",
+      "mobile": "00212656009861",
+      "ville": "Casa",
+      "title": "educatrice",
+      "societe": "babyacademy",
+      "groupId": "6",
+      "id": "qF4lo6j"
+    },
+    {
+      "name": "armani",
+      "email": "armani2023@gmail.com",
+      "mobile": "0605574202",
+      "ville": "Meknès",
+      "title": "lawyer",
+      "societe": "LD south side",
+      "groupId": "3",
+      "id": "bfGUxOn"
+    },
+    {
+      "name": "d",
+      "email": "d@gmail.com",
+      "mobile": "07887656677",
+      "ville": "sudan",
+      "title": "acter",
+      "societe": "hollowyed",
+      "groupId": "2",
+      "id": "ewpHsNR"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Collègue"
+    },
+    {
+      "id": "2",
+      "name": "Ami"
+    },
+    {
+      "id": "3",
+      "name": "Famille"
+    },
+    {
+      "id": "4",
+      "name": "Un service"
+    },
+    {
+      "id": "5",
+      "name": "Communauté"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
